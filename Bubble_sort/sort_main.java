@@ -1,7 +1,6 @@
 package Bubble_sort;
 import java.util.Scanner;
 
-
 public class sort_main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
