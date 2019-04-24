@@ -1,4 +1,4 @@
-package practice1_CallByValue;
+package Practice1_CallByValue;
 
 import java.util.Arrays;
 

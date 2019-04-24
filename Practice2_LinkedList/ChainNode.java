@@ -8,5 +8,6 @@ public class ChainNode <Type>
 	public ChainNode () {}
 	public ChainNode(Type data) {this.data = data;}
 	public ChainNode(Type data, ChainNode <Type> link) 
-	{	this.data = data;	this.link = link;	}
+	{	this.data = data;	
+		this.link = link;	}
 }
